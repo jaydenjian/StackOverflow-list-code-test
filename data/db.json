@@ -1,0 +1,546 @@
+{
+    "items":[
+        {
+            "tags": [
+              "javascript",
+              "node.js",
+              "express",
+              "http",
+              "header"
+            ],
+            "owner": {
+              "account_id": 25260573,
+              "reputation": 25,
+              "user_id": 19091536,
+              "user_type": "registered",
+              "profile_image": "https://lh3.googleusercontent.com/a/AATXAJzL_hVZU_gnluTuZfzCcZ6KAF1bvBZNDmm5Z2Ay=k-s256",
+              "display_name": "user7445842547",
+              "link": "https://stackoverflow.com/users/19091536/user7445842547"
+            },
+            "is_answered": false,
+            "view_count": 4,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1653674899,
+            "creation_date": 1653674899,
+            "question_id": 72409479,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/72409479/how-to-set-headers-about-permission-policy-with-express",
+            "title": "How to set headers about permission policy with express?"
+          },
+          {
+            "tags": [
+              "javascript",
+              "reactjs",
+              "npm",
+              "sass",
+              "node-sass"
+            ],
+            "owner": {
+              "account_id": 18521995,
+              "reputation": 173,
+              "user_id": 13494750,
+              "user_type": "registered",
+              "profile_image": "https://i.stack.imgur.com/EeHgj.jpg?s=256&g=1",
+              "display_name": "Mahmoud Abdulmuty",
+              "link": "https://stackoverflow.com/users/13494750/mahmoud-abdulmuty"
+            },
+            "is_answered": true,
+            "view_count": 331,
+            "accepted_answer_id": 70232542,
+            "answer_count": 2,
+            "score": 2,
+            "last_activity_date": 1653674884,
+            "creation_date": 1638689887,
+            "last_edit_date": 1645258984,
+            "question_id": 70232312,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/70232312/whats-the-best-way-to-add-add-sass-scss-in-a-react-app",
+            "title": "What&#39;s the best way to add add sass/scss in a React app?"
+          },
+          {
+            "tags": [
+              "javascript"
+            ],
+            "owner": {
+              "account_id": 23939967,
+              "reputation": 1,
+              "user_id": 17933224,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/1a0a9a1b0f7983cfcab0a6bf9d2791a8?s=256&d=identicon&r=PG",
+              "display_name": "eeı",
+              "link": "https://stackoverflow.com/users/17933224/ee%c4%b1"
+            },
+            "is_answered": false,
+            "view_count": 22,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1653674799,
+            "creation_date": 1653669377,
+            "last_edit_date": 1653674799,
+            "question_id": 72408540,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/72408540/can-i-see-big-number-with-array-prototype-reduce",
+            "title": "Can i see big number with Array.prototype.reduce"
+          },
+          {
+            "tags": [
+              "javascript",
+              "reactjs",
+              "typescript",
+              "webpack",
+              "next.js"
+            ],
+            "owner": {
+              "account_id": 22859730,
+              "reputation": 25,
+              "user_id": 17004024,
+              "user_type": "registered",
+              "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GhdoK3y-66QHcDho2wzWQQyx8fIm2EXOl5FwuijxA=k-s256",
+              "display_name": "Abhay Rohit",
+              "link": "https://stackoverflow.com/users/17004024/abhay-rohit"
+            },
+            "is_answered": true,
+            "view_count": 412,
+            "accepted_answer_id": 70709358,
+            "answer_count": 2,
+            "score": 2,
+            "last_activity_date": 1653674715,
+            "creation_date": 1642156343,
+            "last_edit_date": 1645207241,
+            "question_id": 70709214,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/70709214/webpack-configuration-for-react-pdf-in-nextjs",
+            "title": "Webpack configuration for react-pdf in NextJS"
+          },
+          {
+            "tags": [
+              "javascript",
+              "arrays",
+              "object"
+            ],
+            "owner": {
+              "account_id": 23658250,
+              "reputation": 13,
+              "user_id": 17686194,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/84e8162284dce9a5f331059ae0902142?s=256&d=identicon&r=PG",
+              "display_name": "Hadi abdallah",
+              "link": "https://stackoverflow.com/users/17686194/hadi-abdallah"
+            },
+            "is_answered": false,
+            "view_count": 20,
+            "answer_count": 3,
+            "score": -1,
+            "last_activity_date": 1653674680,
+            "creation_date": 1653669866,
+            "question_id": 72408627,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/72408627/sum-all-values-of-an-object-in-an-array-of-objects-javascript",
+            "title": "sum all values of an object in an array of objects javascript"
+          },
+          {
+            "tags": [
+              "javascript",
+              "html"
+            ],
+            "owner": {
+              "account_id": 25407616,
+              "reputation": 1,
+              "user_id": 19216032,
+              "user_type": "registered",
+              "profile_image": "https://lh3.googleusercontent.com/a/AATXAJwHH9FMXafVlK0QeWy0hFtoMby7_z5lKWNGi7u0=k-s256",
+              "display_name": "code-t",
+              "link": "https://stackoverflow.com/users/19216032/code-t"
+            },
+            "is_answered": false,
+            "view_count": 24,
+            "answer_count": 2,
+            "score": 0,
+            "last_activity_date": 1653674647,
+            "creation_date": 1653673711,
+            "question_id": 72409288,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/72409288/switch-the-javascript-between-two-buttons",
+            "title": "Switch the Javascript between two buttons"
+          },
+          {
+            "tags": [
+              "javascript",
+              "laravel",
+              "laravel-8",
+              "pos"
+            ],
+            "owner": {
+              "account_id": 10682333,
+              "reputation": 86,
+              "user_id": 10127054,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/3c43d6770f70fe673d14ec573fc6871c?s=256&d=identicon&r=PG&f=1",
+              "display_name": "nafischonchol",
+              "link": "https://stackoverflow.com/users/10127054/nafischonchol"
+            },
+            "is_answered": false,
+            "view_count": 11,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1653674635,
+            "creation_date": 1653674635,
+            "question_id": 72409444,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/72409444/how-do-i-save-data-offline-when-there-will-be-no-network",
+            "title": "How do I save data offline? When there will be no network"
+          },
+          {
+            "tags": [
+              "javascript",
+              "css",
+              "webpack",
+              "next.js",
+              "stylelint"
+            ],
+            "owner": {
+              "account_id": 20815818,
+              "reputation": 6998,
+              "user_id": 15288641,
+              "user_type": "registered",
+              "profile_image": "https://i.stack.imgur.com/1AEET.jpg?s=256&g=1",
+              "display_name": "yousoumar",
+              "link": "https://stackoverflow.com/users/15288641/yousoumar"
+            },
+            "is_answered": true,
+            "view_count": 953,
+            "accepted_answer_id": 70164095,
+            "answer_count": 1,
+            "score": 2,
+            "last_activity_date": 1653674604,
+            "creation_date": 1638244562,
+            "last_edit_date": 1653674604,
+            "question_id": 70164094,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/70164094/how-to-setup-stylelint-in-a-next-js-project",
+            "title": "How to setup Stylelint in a Next.js project?"
+          },
+          {
+            "tags": [
+              "javascript",
+              "reactjs",
+              "react-redux",
+              "redux-toolkit",
+              "redux-persist"
+            ],
+            "owner": {
+              "account_id": 24166043,
+              "reputation": 1,
+              "user_id": 18128876,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/ea7a8361c972c57f9a96bb0bad7bfc9e?s=256&d=identicon&r=PG",
+              "display_name": "Mr.Code77",
+              "link": "https://stackoverflow.com/users/18128876/mr-code77"
+            },
+            "is_answered": false,
+            "view_count": 29,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1653674580,
+            "creation_date": 1653668356,
+            "last_edit_date": 1653672701,
+            "question_id": 72408342,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/72408342/reduxtoolkit-useselector-hook-react-functional-component-doesnt-rerender-after",
+            "title": "ReduxToolkit useSelector Hook: React functional component doesnt rerender after selected redux-state is updated through useDispatch"
+          },
+          {
+            "tags": [
+              "javascript",
+              "node.js",
+              "file-type"
+            ],
+            "owner": {
+              "account_id": 182028,
+              "reputation": 4649,
+              "user_id": 416443,
+              "user_type": "registered",
+              "accept_rate": 96,
+              "profile_image": "https://www.gravatar.com/avatar/b7d486fe35f1a0f31e99704ca06beac2?s=256&d=identicon&r=PG&f=1",
+              "display_name": "georgesamper",
+              "link": "https://stackoverflow.com/users/416443/georgesamper"
+            },
+            "is_answered": true,
+            "view_count": 281745,
+            "accepted_answer_id": 15778396,
+            "answer_count": 14,
+            "score": 288,
+            "last_activity_date": 1653674556,
+            "creation_date": 1338665830,
+            "last_edit_date": 1561103295,
+            "question_id": 10865347,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/10865347/node-js-get-file-extension",
+            "title": "Node.js get file extension"
+          },
+          {
+            "tags": [
+              "javascript",
+              "regex"
+            ],
+            "owner": {
+              "account_id": 25404848,
+              "reputation": 1,
+              "user_id": 19213725,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/37436582e34ceafd701409c0f29d311a?s=256&d=identicon&r=PG&f=1",
+              "display_name": "Simp4Code",
+              "link": "https://stackoverflow.com/users/19213725/simp4code"
+            },
+            "is_answered": false,
+            "view_count": 24,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1653674539,
+            "creation_date": 1653652501,
+            "last_edit_date": 1653674539,
+            "question_id": 72405063,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/72405063/regex-to-match-whole-line-after-nth-occurrence-of-a-string",
+            "title": "RegEx to match whole line after nth occurrence of a string"
+          },
+          {
+            "tags": [
+              "javascript",
+              "node.js",
+              "unit-testing",
+              "jestjs",
+              "node-modules"
+            ],
+            "owner": {
+              "account_id": 16053931,
+              "reputation": 138,
+              "user_id": 11586966,
+              "user_type": "registered",
+              "profile_image": "https://i.stack.imgur.com/M2kWw.jpg?s=256&g=1",
+              "display_name": "Steeven Delucis",
+              "link": "https://stackoverflow.com/users/11586966/steeven-delucis"
+            },
+            "is_answered": false,
+            "view_count": 6,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1653674529,
+            "creation_date": 1653674529,
+            "question_id": 72409426,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/72409426/unit-test-a-module-with-jest-in-nodejs",
+            "title": "Unit test a module with Jest in NodeJS"
+          },
+          {
+            "tags": [
+              "javascript",
+              "html"
+            ],
+            "owner": {
+              "account_id": 25406895,
+              "reputation": 1,
+              "user_id": 19215438,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/50dc0887070fc935285ac72f64e02cab?s=256&d=identicon&r=PG",
+              "display_name": "Rohan",
+              "link": "https://stackoverflow.com/users/19215438/rohan"
+            },
+            "is_answered": false,
+            "view_count": 9,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1653674525,
+            "creation_date": 1653674525,
+            "question_id": 72409424,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/72409424/how-to-populate-the-value-of-feature-attributes-into-a-dynamically-created-html",
+            "title": "How to populate the value of feature attributes into a dynamically created html table using JavaScript?"
+          },
+          {
+            "tags": [
+              "javascript",
+              "html",
+              "css"
+            ],
+            "owner": {
+              "account_id": 16489971,
+              "reputation": 805,
+              "user_id": 11914177,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/7e7e85896555130accfbf01698d6be73?s=256&d=identicon&r=PG&f=1",
+              "display_name": "user11914177",
+              "link": "https://stackoverflow.com/users/11914177/user11914177"
+            },
+            "is_answered": true,
+            "view_count": 165,
+            "accepted_answer_id": 70591945,
+            "answer_count": 2,
+            "score": 4,
+            "last_activity_date": 1653674490,
+            "creation_date": 1641380891,
+            "last_edit_date": 1645254772,
+            "question_id": 70591846,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/70591846/css-doesnt-change-background-when-adding-class",
+            "title": "CSS doesn&#39;t change background when adding class"
+          },
+          {
+            "tags": [
+              "javascript",
+              "arrays",
+              "reactjs"
+            ],
+            "owner": {
+              "account_id": 19735217,
+              "reputation": 97,
+              "user_id": 14449863,
+              "user_type": "registered",
+              "profile_image": "https://lh5.googleusercontent.com/-WnZFZpW82y4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmonttYSgJCdqvmGyTsdpfjk3Z40A/s96-c/photo.jpg?sz=256",
+              "display_name": "Dhaval Parmar",
+              "link": "https://stackoverflow.com/users/14449863/dhaval-parmar"
+            },
+            "is_answered": false,
+            "view_count": 9,
+            "answer_count": 2,
+            "score": 1,
+            "last_activity_date": 1653675023,
+            "creation_date": 1653674024,
+            "question_id": 72409328,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/72409328/replace-strings-to-tag-in-react",
+            "title": "Replace strings to tag in react"
+          },
+          {
+            "tags": [
+              "javascript",
+              "arrays",
+              "typescript",
+              "copy"
+            ],
+            "owner": {
+              "account_id": 24305399,
+              "reputation": 271,
+              "user_id": 18248235,
+              "user_type": "registered",
+              "profile_image": "https://lh3.googleusercontent.com/a/AATXAJz0y1sMaJYi2GG8YJ1jEkEE1KHBRcruM2LGurMB=k-s256",
+              "display_name": "Cflowe Visit",
+              "link": "https://stackoverflow.com/users/18248235/cflowe-visit"
+            },
+            "is_answered": false,
+            "view_count": 14,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1653674478,
+            "creation_date": 1653674478,
+            "question_id": 72409416,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/72409416/what-is-the-fastest-way-to-copy-an-array",
+            "title": "What is the fastest way to copy an array?"
+          },
+          {
+            "tags": [
+              "javascript",
+              "jquery"
+            ],
+            "owner": {
+              "account_id": 25394819,
+              "reputation": 3,
+              "user_id": 19205248,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/744c2c0a7032faa8815ecdff31f143b5?s=256&d=identicon&r=PG&f=1",
+              "display_name": "Tharanga Nuwan",
+              "link": "https://stackoverflow.com/users/19205248/tharanga-nuwan"
+            },
+            "is_answered": false,
+            "view_count": 11,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1653674420,
+            "creation_date": 1653674420,
+            "question_id": 72409403,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/72409403/how-i-access-input-value-inside-a-function-when-page-is-load",
+            "title": "How I access input value inside a function when page is load"
+          },
+          {
+            "tags": [
+              "javascript",
+              "node.js"
+            ],
+            "owner": {
+              "account_id": 16383388,
+              "reputation": 1,
+              "user_id": 11833863,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/40bae485cf556f8900bc4d934fa12657?s=256&d=identicon&r=PG&f=1",
+              "display_name": "Brainfuck",
+              "link": "https://stackoverflow.com/users/11833863/brainfuck"
+            },
+            "is_answered": false,
+            "view_count": 13,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1653674401,
+            "creation_date": 1653673576,
+            "last_edit_date": 1653674401,
+            "question_id": 72409267,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/72409267/input-taking-for-multiple-test-case-node-js",
+            "title": "Input taking for multiple test case node.js"
+          },
+          {
+            "tags": [
+              "javascript",
+              "reactjs",
+              "typescript"
+            ],
+            "owner": {
+              "account_id": 18821903,
+              "reputation": 35,
+              "user_id": 13727693,
+              "user_type": "registered",
+              "profile_image": "https://lh6.googleusercontent.com/--iFfGUIi5jY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucliJmbM-yllmjFZprJRbUSt0Rfx3Q/photo.jpg?sz=256",
+              "display_name": "Anonymousss",
+              "link": "https://stackoverflow.com/users/13727693/anonymousss"
+            },
+            "is_answered": false,
+            "view_count": 29,
+            "answer_count": 1,
+            "score": -3,
+            "last_activity_date": 1653674357,
+            "creation_date": 1653672771,
+            "last_edit_date": 1653672969,
+            "question_id": 72409126,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/72409126/how-to-convert-this-typescript-code-to-javascript",
+            "title": "how to convert this typescript code to javascript"
+          },
+          {
+            "tags": [
+              "javascript"
+            ],
+            "owner": {
+              "account_id": 24354493,
+              "reputation": 1,
+              "user_id": 18289907,
+              "user_type": "registered",
+              "profile_image": "https://www.gravatar.com/avatar/dbd4658d934263e620cfa06a517ca237?s=256&d=identicon&r=PG",
+              "display_name": "Muhammad Awais",
+              "link": "https://stackoverflow.com/users/18289907/muhammad-awais"
+            },
+            "is_answered": false,
+            "view_count": 6,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1653674296,
+            "creation_date": 1653674296,
+            "question_id": 72409374,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/72409374/istanbul-scripts-are-not-running",
+            "title": "Istanbul scripts are not running"
+          }
+    ]      
+    
+}
